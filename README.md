@@ -1,2 +1,2 @@
-# AAbilityKit_VK
+# ALibKit_VK
 Android支持库 -> VK
